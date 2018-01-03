@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+* {
+    font-family: Raleway, sans-serif;
+}
+
+input {
+    width: 100%;
+}
+
+input.empty {
+    background-color: #FF6666 !important;
+}
+
+button {
+    float: right;
+}
+fieldset>span{
+    color: red;
+}
+
+.ressources{
+    margin-top: -20px;
+}
